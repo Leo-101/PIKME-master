@@ -14,7 +14,8 @@ Admin Account: email: no id password required
 
 ####   FOR WEB APPLICATION   ####
 
-Our static website is currently hosted during elementor page builder on the following link:-
+Our static website is currently built using elementor page builder & hosted on www.000webhostapp.com at following link:-
+https://pikme-iba.000webhostapp.com/
 
 
 
